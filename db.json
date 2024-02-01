@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "life story of bibekanada",
+      "autherName": "Bibekanand",
+      "price": "15",
+      "description": "good life story",
+      "image": "D"
+    },
+    {
+      "id": 2,
+      "title": "Jane Eyre",
+      "autherName": "Shridhar",
+      "price": 1500,
+      "description": "Jane Eyre is a novel by the English writer Charlotte Brontë. ",
+      "image": "B"
+    },
+    {
+      "id": 3,
+      "title": "chirstmas",
+      "autherName": "abhi",
+      "price": 130,
+      "description": "good life story",
+      "image": "H"
+    },
+    {
+      "id": 4,
+      "title": "ashis",
+      "autherName": "ssana",
+      "price": "300",
+      "description": "sunset",
+      "image": "A"
+    },
+    {
+      "id": 5,
+      "title": "boat",
+      "autherName": "aman",
+      "price": "1500",
+      "description": "good quality ",
+      "image": "I"
+    },
+    {
+      "id": 6,
+      "title": "Chetan Bhagabat",
+      "autherName": "ashis",
+      "price": "300",
+      "description": "good",
+      "image": "G"
+    }
+  ]
+}

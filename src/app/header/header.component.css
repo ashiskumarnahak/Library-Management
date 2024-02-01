@@ -1,0 +1,19 @@
+.logout{
+    padding-left: 700px;
+}
+/* button{
+    background-color: palevioletred;
+    width: 80px;
+    height: 30px;
+} */
+body{
+    background-color: antiquewhite;
+}
+h3{
+    padding-left: 80px;
+}
+.navbar-nav li{
+    padding-left: 10px;
+}
+
+

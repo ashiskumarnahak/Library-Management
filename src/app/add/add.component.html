@@ -1,0 +1,34 @@
+<div class="container">
+    <h3>Add Book</h3>
+
+    <form (ngSubmit)="saveBook()">
+      
+
+        <div class="form-group">
+            <label>Title :</label>
+            <input type="text" class="form-control" id="title" [(ngModel)]="books.title" name="title">
+        </div>
+
+        <div class="form-group">
+            <label>Auther-Name :</label>
+            <input type="text" class="form-control" id="authername" [(ngModel)]="books.autherName" name="authername">
+        </div>
+
+        <div class="form-group">
+            <label>Price :</label>
+            <input type="text" class="form-control" id="price" [(ngModel)]="books.price" name="price">
+        </div>
+
+        <div class="form-group">
+            <label>Description :</label>
+            <input type="text" class="form-control" id="price" [(ngModel)]="books.description" name="description">
+        </div>
+
+        <div class="form-group">
+            <label>Image :</label>
+            <input type="text" class="form-control" id="image" [(ngModel)]="books.imgae" name="image">
+        </div>
+        <br/>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
